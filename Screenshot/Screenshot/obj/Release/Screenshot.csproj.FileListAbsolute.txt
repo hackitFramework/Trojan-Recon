@@ -1,0 +1,17 @@
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\MainWindow.g.cs
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\App.g.cs
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\MainWindow.baml
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Screenshot.csproj.GenerateResource.cache
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Screenshot.csproj.CoreCompileInputs.cache
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon_MarkupCompile.cache
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon_MarkupCompile.lref
+C:\Users\chans\source\repos\Screenshot\Screenshot\bin\Release\Recon.exe.config
+C:\Users\chans\source\repos\Screenshot\Screenshot\bin\Release\Recon.exe
+C:\Users\chans\source\repos\Screenshot\Screenshot\bin\Release\Recon.pdb
+C:\Users\chans\source\repos\Screenshot\Screenshot\bin\Release\System.Management.Automation.dll
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon.g.resources
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon.Properties.Resources.resources
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Screenshot.csproj.CopyComplete
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon.exe
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Recon.pdb
+C:\Users\chans\source\repos\Screenshot\Screenshot\obj\Release\Screenshot.csprojAssemblyReference.cache
