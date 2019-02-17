@@ -6,4 +6,4 @@ Sends timestamped screenshots and system information via email.
 <li> Enter destination email address</li>
 <li> Enter password for your Gmail</li>
 
-<li> Compile into Release build</li>
+Compile into Release build and deploy in startup folder.
