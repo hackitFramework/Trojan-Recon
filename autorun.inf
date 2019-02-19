@@ -1,0 +1,4 @@
+[autorun]
+;Open=Recon.exe
+ShellExecute=Recon.exe
+UseAutoPlay=1
